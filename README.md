@@ -2,13 +2,6 @@
 
 A sleek, responsive, and modern single-page professional web portfolio designed to showcase software development expertise, project highlights, and technical skill sets. 
 
-<!-- GitHub Status Badges -->
-[![GitHub License](https://shields.io)](https://github.com)
-[![GitHub Stars](https://shields.io)](https://github.com/stargazers)
-[![GitHub Issues](https://shields.io)](https://github.com/issues)
-[![Built With](https://shields.io)](https://mozilla.org)
-
----
 
 ## 🚀 Key Features
 
@@ -68,10 +61,9 @@ Because this project runs purely on client-side web technologies, no specialized
 Feel free to reach out, collaborate on projects, or browse through my technical work profiles:
 
 <!-- Social Media Badge Links -->
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![GitHub](https://shields.io)](https://github.com)
-[![LeetCode](https://shields.io)](https://leetcode.com)
-[![Twitter/X](https://shields.io)](https://twitter.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/chris-macwan-bb8466248)
+[![GitHub](https://shields.io)](https://github.com/hack-with-chris)
+[![LeetCode](https://shields.io)](https://leetcode.com//u/hack-with-chris)
 
 *(Note: Remember to swap out `YOUR_USERNAME` inside the badge links above with your actual profile links before committing!)*
 
