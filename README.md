@@ -60,12 +60,17 @@ Because this project runs purely on client-side web technologies, no specialized
 
 Feel free to reach out, collaborate on projects, or browse through my technical work profiles:
 
-<!-- Social Media Badge Links -->
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/chris-macwan-bb8466248)
-[![GitHub](https://shields.io)](https://github.com/hack-with-chris)
-[![LeetCode](https://shields.io)](https://leetcode.com//u/hack-with-chris)
-
-*(Note: Remember to swap out `YOUR_USERNAME` inside the badge links above with your actual profile links before committing!)*
+<p align="left">
+  <a href="[https://linkedin.com](https://linkedin.com/in/chris-macwan-bb8466248)" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="[https://github.com](https://github.com/hack-with-chris)" target="_blank">
+    <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="[https://leetcode.com](https://leetcode.com//u/hack-with-chris)" target="_blank">
+    <img src="https://githubusercontent.com" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
