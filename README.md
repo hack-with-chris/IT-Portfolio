@@ -61,14 +61,14 @@ Because this project runs purely on client-side web technologies, no specialized
 Feel free to reach out, collaborate on projects, or browse through my technical work profiles:
 
 <p align="left">
-  <a href="[https://linkedin.com](https://linkedin.com/in/chris-macwan-bb8466248)" target="_blank">
-    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://linkedin.com/in/chris-macwan-bb8466248" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="[https://github.com](https://github.com/hack-with-chris)" target="_blank">
-    <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  <a href="https://github.com" target="_blank">
+    <img src="https://github.com/hack-with-chris" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="[https://leetcode.com](https://leetcode.com//u/hack-with-chris)" target="_blank">
-    <img src="https://githubusercontent.com" alt="LeetCode" width="40" height="40"/>
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://leetcode.com//u/hack-with-chris" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
